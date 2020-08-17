@@ -1,0 +1,21 @@
+.header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f88ee;
+  padding: 24px;
+  color: white;
+}
+
+.header h1 {
+  font-weight: 500;
+  margin-bottom: 16px;
+  font-size: 36px;
+}
+
+.header h4 {
+  font-weight: 400;
+  font-size: 18px;
+}
